@@ -18,6 +18,6 @@ let sim = document.getElementById("sim");
 			imagem.src = "./love.jpeg";
 			imagem.style.display = "block";
             var textoImagem = document.getElementById("texto-imagem");
-			textoImagem.textContent = "Aeee Te amo mil milhões! <3";
+			textoImagem.textContent = "Aeee prometo te fazer feliz <3";
 			textoImagem.style.display = "block";
 		});
