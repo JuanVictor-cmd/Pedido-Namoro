@@ -11,13 +11,13 @@ let nao = document.getElementById("nao");
 let sim = document.getElementById("sim");
 		sim.addEventListener("click", function() {
 			var link = document.createElement("a");
-			link.href = "https://www.youtube.com/watch?v=izGwDsrQ1eQ";
+			link.href = "https://youtu.be/rtOvBOTyX00?si=gBHLMTJPrPO_WQzT";
 			link.target = "_blank";
 			link.click();
             var imagem = document.getElementById("imagem");
 			imagem.src = "./love.jpeg";
 			imagem.style.display = "block";
             var textoImagem = document.getElementById("texto-imagem");
-			textoImagem.textContent = "Aeee prometo te fazer feliz <3";
+			textoImagem.textContent = "Eu prometo te amar por muito mais que mil anos <3";
 			textoImagem.style.display = "block";
 		});
