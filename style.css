@@ -30,3 +30,10 @@ button:hover{
     background-color: #9e5959;
     color: #ffff;
 }
+
+footer {
+  text-align: center;
+  padding: 20px;
+  color: #fff; /* White text */
+  font-size: 14px;
+}
