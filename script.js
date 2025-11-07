@@ -11,7 +11,7 @@ let nao = document.getElementById("nao");
 let sim = document.getElementById("sim");
 		sim.addEventListener("click", function() {
 			var link = document.createElement("a");
-			link.href = "https://youtu.be/rtOvBOTyX00?si=gBHLMTJPrPO_WQzT";
+			link.href = "https://open.spotify.com/track/7hn8Q8WAxFdL4aZ159GI7C?si=rdyIFQCNQjSWr_Tyb3p1HQ";
 			link.target = "_blank";
 			link.click();
             var imagem = document.getElementById("imagem");
